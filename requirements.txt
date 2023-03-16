@@ -1,0 +1,8 @@
+moviepy
+
+yt-dlp
+xattr
+
+asyncio
+
+aiogram
