@@ -1,8 +1,8 @@
 # Vibesloader (version 2023.03.16)
 
-Simple telegram bot for separating audio from video.
+Simple telegram bot for separating audio from video. You can use native telegram video, video-notes, video files or youtube link.
 
-It is using https://github.com/yt-dlp/yt-dlp for youtube links downloading function (and FUTURE! moviepy pypi-pkg for direct video files).
+It is using https://github.com/yt-dlp/yt-dlp for youtube links downloading function and moviepy pypi-pkg for native telegram video messages.
 
 ## installation / prepare (partly description for now)
 
