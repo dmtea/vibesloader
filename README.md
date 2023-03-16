@@ -18,13 +18,13 @@ It is using https://github.com/yt-dlp/yt-dlp for youtube links downloading funct
 
 ## TODO (first):
 
-- [+] make "local" (from telegram msgs) video-msgs decoupling
-- [+] make "local" (from telegram msgs) video-circles decoupling
-- [+] make "local" (from telegram msgs) video-files decoupling
-- [ ] **delete all files after sending audio back (or set this in settings what/how to do/be?)**
-- [ ] **make all work with ASYNC functions or in TASK-Manager like celery (+redis for msg transport)**
+- [x] make "local" (from telegram msgs) video-msgs decoupling
+- [x] make "local" (from telegram msgs) video-circles decoupling
+- [x] make "local" (from telegram msgs) video-files decoupling
+- [x] **delete all files after sending audio back (or set this in settings what/how to do/be?)**
 - [ ] check all modern youtube-links are working (with regexp)
 - [ ] Add PROXY support for youtube downloading
+- [ ] **make all work with ASYNC functions or in TASK-Manager like celery (+redis for msg transport)**
   - [ ] test with some free proxy?
 - ... what next?
 
