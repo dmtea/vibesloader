@@ -10,7 +10,7 @@ It is using https://github.com/yt-dlp/yt-dlp for youtube links downloading funct
 2. Use a virtual enviroment for this script (optional)
 3. Install python packeges `pip3 install -r requirements.txt`
 4. Add TOKEN enviroment variable for Telegram bot
-5. Add PROXY enviroment variable for youtube "home-ip-safe" downloading (optional)
+5. FUTURE (TODO for yt-dlp) Add PROXY enviroment variable for youtube "home-ip-safe" downloading (optional)
 
 ## start the bot (manual usage)
 
